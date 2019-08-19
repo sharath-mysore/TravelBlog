@@ -1,0 +1,14 @@
+#container {
+    width:100%;
+    text-align:center;
+}
+
+#left {
+    float:left;
+    width:20%
+}
+
+#right {
+    float:right;
+    width:80%
+}
